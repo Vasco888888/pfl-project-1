@@ -39,3 +39,9 @@ To remove compiled files:
 ```bash
 make clean
 ```
+
+## Credits
+
+- Based on Chapter 8 of **"Programming in Haskell"** by **Graham Hutton**.
+- Original implementation by **Pedro Vasconcelos** (2025).
+- Created for the **PFL** (Programação Funcional e Lógica) course at **FEUP**.
