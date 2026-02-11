@@ -1,0 +1,19 @@
+# GHC intermediate files
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+
+# Build artifacts
+dist/
+dist-newstyle/
+.stack-work/
+.cabal-bin/
+
+# Executables
+calculator
+calculator.exe
+
+# Misc
+.DS_Store
+*~
